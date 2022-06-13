@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211402371894",
+    "project_id": "donroute",
+    "storage_bucket": "donroute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211402371894:android:fc20a581e3e6102428f997",
+        "android_client_info": {
+          "package_name": "com.oop.laba2.donroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211402371894-cq9fug1nn4dos7cajm6280auqemgkpdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eIsA8Q8ZjDTdJNrpQamADxg65p8vf9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211402371894-cq9fug1nn4dos7cajm6280auqemgkpdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

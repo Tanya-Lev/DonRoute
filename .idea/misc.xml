@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable-v24/ic_done.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ellipse.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_back.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_bus.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_donroute.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_heart.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_main_bus.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_main_screen.xml" value="0.1" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_vector1.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/ic_vector2.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_blue.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_blue_stroked.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_bus.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_bus_stroked.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_tram.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_tram_stroked.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_trolleybus.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/rectangle_rounded_trolleybus_stroked.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/round_10dp.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/drawable/splash_screen.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/font/roboto.xml" value="0.1" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/font/roboto_bold.xml" value="0.1" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/font/roboto_medium.xml" value="0.1" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_add_favorites_error.xml" value="0.264" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_choose_bus_station_variants.xml" value="0.2" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_choose_station.xml" value="0.2" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_choose_station_variants.xml" value="0.2" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_choose_transport_type.xml" value="0.264" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_log_in.xml" value="0.4" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_main2.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_registration.xml" value="0.264" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_route.xml" value="0.4" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/activity_transport_numbers.xml" value="0.264" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/choose_bus_station.xml" value="0.176" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/choose_station_item.xml" value="0.4" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/route_item.xml" value="0.4" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/sample_route_custom_view.xml" value="0.15164473684210528" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/layout/transport_numbers_item.xml" value="0.6" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/mipmap-anydpi-v26/ic_launcher_my.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/mipmap-anydpi-v26/ic_launcher_my_round.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/DonRoute/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1707236842105263" />
+        <entry key="..\:/Users/1/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/1/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_2.xml" value="0.16052631578947368" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".ui.LoginActivity">
+
+    <EditText
+        android:id="@+id/loginPassET"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:password="true"
+        android:singleLine="false"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/main_color"
+        android:textColorLink="@color/main_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView29" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/roboto"
+        android:text="Пароль"
+        android:textColor="@color/main_color"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginEmailET" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/roboto"
+        android:text="Электронная почта"
+        android:textColor="@color/main_color"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView25" />
+
+    <EditText
+        android:id="@+id/loginEmailET"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:drawableTint="@color/main_color"
+        android:drawableTintMode="src_over"
+        android:ems="10"
+        android:foregroundTint="@color/main_color"
+        android:inputType="textPersonName"
+        android:singleLine="false"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/main_color"
+        android:textColorLink="@color/main_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView28" />
+
+    <Button
+        android:id="@+id/logInBtn"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle_rounded_blue"
+        android:fontFamily="@font/roboto_bold"
+        android:text="Войти"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/registerBtn"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="#00FFFFFF"
+        android:fontFamily="@font/roboto_bold"
+        android:foreground="@drawable/rectangle_rounded_blue_stroked"
+        android:text="Зарегестрироваться"
+        android:textAllCaps="false"
+        android:textColor="@color/main_color"
+        app:layout_constraintBottom_toTopOf="@+id/logInBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_medium"
+        android:text="Вход"
+        android:textColor="@color/main_color"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/backIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:paddingRight="15dp"
+        android:paddingBottom="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/textView20"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView20"
+        app:srcCompat="@drawable/ic_back" />
+
+    <ImageView
+        android:id="@+id/eyeIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-40dp"
+        android:background="@android:color/transparent"
+        android:paddingLeft="4dp"
+        android:paddingTop="8dp"
+        android:paddingRight="4dp"
+        android:paddingBottom="4dp"
+        app:layout_constraintBottom_toBottomOf="@+id/loginPassET"
+        app:layout_constraintStart_toEndOf="@+id/loginPassET"
+        app:layout_constraintTop_toTopOf="@+id/loginPassET"
+        app:srcCompat="@drawable/ic_eye_closed" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

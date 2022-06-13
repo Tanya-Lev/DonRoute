@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="RouteCustomView">
+        <attr name="roadColor" format="color" />
+        <attr name="circleColor" format="color" />
+        <attr name="state" format="integer" />
+    </declare-styleable>
+</resources>
